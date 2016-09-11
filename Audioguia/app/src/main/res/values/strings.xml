@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Audioguía Valencia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_project">Audioguia</string>
+    <string name="titulo">Audioguia de Valencia</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="distancias">Distancias a los Monumentos</string>
+</resources>
